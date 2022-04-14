@@ -1,0 +1,4 @@
+usar a plataforma da google cloud
+- console.cloud.google.com
+criar um projeto para o uso de dataproc
+usar os serviços de instance vm - pra instanciar as maquinas virtuais
